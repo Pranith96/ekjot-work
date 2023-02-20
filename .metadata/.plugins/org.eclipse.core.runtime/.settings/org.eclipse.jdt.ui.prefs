@@ -1,0 +1,13 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Calculator"><rhs name\="Subtraction"/></lhs><lhs name\="Subtraction"><rhs name\="Subtraction"/></lhs><lhs name\="Colors"><rhs name\="ColorOvrde"/></lhs><lhs name\="ColorOvrde"><rhs name\="ColorOvrde"/></lhs><lhs name\="MotorBike"><rhs name\="BulletBike"/></lhs><lhs name\="Bike"><rhs name\="BulletBike"/><rhs name\="MotorBikeImpl"/><rhs name\="NewBikeImpl"/></lhs><lhs name\="BulletBike"><rhs name\="BulletBike"/></lhs><lhs name\="MotorBikeImpl"><rhs name\="MotorBikeImpl"/></lhs><lhs name\="NewBikeImpl"><rhs name\="NewBikeImpl"/></lhs><lhs name\="java.lang.Exception"><rhs name\="DataNotFoundException2"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="DataNotFoundException2"/></lhs><lhs name\="DataNotFoundException2"><rhs name\="DataNotFoundException2"/></lhs><lhs name\="java.lang.Thread"><rhs name\="ThreadClassExample"/></lhs><lhs name\="java.lang.Runnable"><rhs name\="ThreadClassExample"/><rhs name\="ThreadExample"/></lhs><lhs name\="ThreadClassExample"><rhs name\="ThreadClassExample"/></lhs><lhs name\="ThreadExample"><rhs name\="ThreadExample"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.String"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.GenerationType"/><rhs name\="org.springframework.http.HttpStatus"/></lhs></history>
+content_assist_number_of_computers=20
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
